@@ -1,0 +1,5 @@
+{{#user}
+Name: Charala Janani
+Skills: HTML, CSS, JS, Next.js,React.js,node.js,Mongodb
+Email: jananicharala@gmail.com
+{{/user}}
